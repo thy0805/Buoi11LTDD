@@ -27,3 +27,5 @@ android/app/src/main/res/values/google-services.json
 ios/Runner/GoogleService-Info.plist
 **/google-services.json
 **/GoogleService-Info.plist
+run_gui_capture.py
+*.py
